@@ -37,7 +37,6 @@ const Footer = () => {
         <p className="footer__text">
           © {new Date().getFullYear()} Benjamin Dinh
         </p>
-        {isEnabled && <GithubButtons />}
       </Container>
     </footer>
   );
