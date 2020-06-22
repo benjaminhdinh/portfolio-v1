@@ -28,12 +28,21 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv4(),
-    img: '',
-    title: '',
+    img: '../images/project1',
+    title: 'UC Davis Graduate Yearbook 2020',
     info: '',
     info2: '',
     url: 'https://hazel-boundless-yearbook.glitch.me',
     repo: 'https://github.com/benjamin-dinh/yearbook', // if no repo, the button will not show up
+  },
+  {
+    id: uuidv4(),
+    img: '../images/project1',
+    title: 'Postcard Creator',
+    info: '',
+    info2: '',
+    url: 'https://foggy-climbing-carob.glitch.me/',
+    repo: 'https://github.com/benjamin-dinh/postcard-database-implementation', // if no repo, the button will not show up
   },
 ];
 
