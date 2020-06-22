@@ -56,16 +56,6 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    // {
-    //   id: uuidv4(),
-    //   name: 'twitter',
-    //   url: '',
-    // },
-    // {
-    //   id: uuidv4(),
-    //   name: 'codepen',
-    //   url: '',
-    // },
     {
       id: uuidv4(),
       name: 'linkedin',
