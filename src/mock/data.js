@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv4(),
-    img: '../images/project1',
+    img: '../images/project1.png',
     title: 'UC Davis Graduate Yearbook 2020',
     info: '',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: uuidv4(),
-    img: '../images/project2',
+    img: '../images/project2.png',
     title: 'Postcard Creator',
     info: '',
     info2: '',
