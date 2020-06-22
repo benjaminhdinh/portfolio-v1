@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a software engineering student based in Silicon Valley, specializing in full-stack development.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: '', 
+  resume: 'https://drive.google.com/file/d/1gcHcfZugDA7305ATUEJE0Ev-qfPJkUFo/view?usp=sharing', 
 };
 
 // PROJECTS DATA
@@ -32,8 +32,8 @@ export const projectsData = [
     title: '',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://hazel-boundless-yearbook.glitch.me',
+    repo: 'https://github.com/benjamin-dinh/yearbook', // if no repo, the button will not show up
   },
 ];
 
