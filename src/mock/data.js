@@ -18,35 +18,17 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
+  paragraphOne: 'I am a software engineering student based in Silicon Valley, specializing in full-stack development.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', 
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: uuidv4(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv4(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv4(),
-    img: 'project.jpg',
+    img: '',
     title: '',
     info: '',
     info2: '',
@@ -59,31 +41,31 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'benjamindinh909@gmail.com',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: uuidv4(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: uuidv4(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: uuidv4(),
+    //   name: 'twitter',
+    //   url: '',
+    // },
+    // {
+    //   id: uuidv4(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: uuidv4(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/benjamin-dinh/',
     },
     {
       id: uuidv4(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/benjamin-dinh',
     },
   ],
 };
