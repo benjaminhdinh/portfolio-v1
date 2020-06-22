@@ -57,8 +57,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
+  cta: 'Would you like to reach out to me?',
+  btn: "Send me a message!",
   email: 'benjamindinh909@gmail.com',
 };
 
@@ -77,5 +77,4 @@ export const footerData = {
     },
   ],
 };
-
 
