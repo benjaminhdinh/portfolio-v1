@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: uuidv4(),
-    img: '../images/project1',
+    img: '../images/project2',
     title: 'Postcard Creator',
     info: '',
     info2: '',
