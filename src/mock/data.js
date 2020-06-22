@@ -2,17 +2,17 @@ import { v4 as uuidv4 } from 'uuid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Benjamin Dinh | Developer', 
+  lang: 'en', // e.g: en, es, fr, jp
+  description: "Welcome to my website!", 
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hi, my name is',
+  name: 'Benjamin',
+  subtitle: 'I am a developer!',
+  cta: 'Learn more about me',
 };
 
 // ABOUT DATA
