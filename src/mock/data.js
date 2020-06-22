@@ -44,6 +44,15 @@ export const projectsData = [
     url: 'https://foggy-climbing-carob.glitch.me/',
     repo: 'https://github.com/benjamin-dinh/postcard-database-implementation', // if no repo, the button will not show up
   },
+  {
+    id: uuidv4(),
+    img: 'project3.png',
+    title: 'Stephan Kaltenbach Exhibit',
+    info: 'Front-end project for an exhibit at the UC Davis Manetti Shrem Museum of Art. Learned how to implement a carousel slideshow and usable buttons on the webpage. Finetuned CSS skills through this simple webpage.',
+    info2: '',
+    url: 'https://shore-conscious-supply.glitch.me/',
+    repo: 'https://github.com/benjamin-dinh/museum-website', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
