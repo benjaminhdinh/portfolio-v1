@@ -28,18 +28,18 @@ export const aboutData = {
 export const projectsData = [
   {
     id: uuidv4(),
-    img: '../images/project1.png',
+    img: 'project1.png',
     title: 'UC Davis Graduate Yearbook 2020',
-    info: '',
+    info: 'Built a website that allows graduates to upload personal profiles to display on a yearbook website. Involved APIs, databases, Google log-ins, and image uploads. Coded the front-end with React and the back-end with Express.',
     info2: '',
     url: 'https://hazel-boundless-yearbook.glitch.me',
     repo: 'https://github.com/benjamin-dinh/yearbook', // if no repo, the button will not show up
   },
   {
     id: uuidv4(),
-    img: '../images/project2.png',
+    img: 'project2.png',
     title: 'Postcard Creator',
-    info: '',
+    info: 'Created a web application where users can create personal postcards with custom fonts, colors, messages, and image uploads. Dealt with browser-side with basic HTML/CSS/Javascript and server-side programming with Express.',
     info2: '',
     url: 'https://foggy-climbing-carob.glitch.me/',
     repo: 'https://github.com/benjamin-dinh/postcard-database-implementation', // if no repo, the button will not show up
