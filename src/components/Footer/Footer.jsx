@@ -6,7 +6,6 @@ import PortfolioContext from '../../context/context';
 const Footer = () => {
   const { footer } = useContext(PortfolioContext);
   const { networks } = footer;
-  const { isEnabled } = githubButtons;
 
   return (
     <footer className="footer navbar-static-bottom">
