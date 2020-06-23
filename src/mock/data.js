@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'project1.png',
     title: 'UC Davis Graduate Yearbook 2020',
     info: 'Built a website that allows graduates to upload personal profiles to display on a yearbook website. Involved APIs, databases, Google log-ins, and image uploads.',
-    info2: 'Front-end: React <br/> Back-end: Express',
+    info2: 'Overview: React, Express, Google Log-In Credentials, Flickr API',
     url: 'https://hazel-boundless-yearbook.glitch.me',
     repo: 'https://github.com/benjamin-dinh/yearbook', // if no repo, the button will not show up
   },
@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'project2.png',
     title: 'Postcard Creator',
     info: 'Created a web application where users can create personal postcards with custom fonts, colors, messages, and image uploads.',
-    info2: 'Front-end: HTML, CSS, Javascript <br/> Back-end: Express',
+    info2: 'Overview: HTML, CSS, Javascript, Express',
     url: 'https://foggy-climbing-carob.glitch.me/',
     repo: 'https://github.com/benjamin-dinh/postcard-database-implementation', // if no repo, the button will not show up
   },
@@ -49,7 +49,7 @@ export const projectsData = [
     img: 'project3.png',
     title: 'Stephan Kaltenbach Exhibit',
     info: 'Front-end project for an exhibit at the UC Davis Manetti Shrem Museum of Art. Learned how to implement a carousel slideshow and usable buttons on the webpage.',
-    info2: 'Basic HTML, CSS, Javascript',
+    info2: 'Overview: HTML, CSS, Javascript',
     url: 'https://shore-conscious-supply.glitch.me/',
     repo: 'https://github.com/benjamin-dinh/museum-website', // if no repo, the button will not show up
   },
@@ -58,7 +58,7 @@ export const projectsData = [
     img: 'behance.jpg',
     title: 'Side Hobby: Graphic Design',
     info: 'In my free time, I doodle! From watercolor art to my graphics, I use a variety of mediums to create fun pieces.',
-    info2: 'Tools: Acrylic Paint, Watercolors, Procreate',
+    info2: 'Mediums: Acrylic Paint, Watercolors, Procreate',
     url: 'https://www.behance.net/gallery/99370465/Personal-Art',
     repo: '', // if no repo, the button will not show up
   },
