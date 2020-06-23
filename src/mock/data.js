@@ -1,4 +1,4 @@
-import { v4 as uuidv4 } from 'uuid';
+import uuidv4 from 'uuid';
 
 // HEAD DATA
 export const headData = {
@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a software engineering student based in Silicon Valley, specializing in full-stack development.',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphTwo: 'Websites, mobile applications, and everything inbetween is what I am passionate about. There is always room for growth, and that is exactly what pushes me to learn more everyday.',
+  paragraphThree: 'Contact me, I would love to chat!',
   resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing', 
 };
 
