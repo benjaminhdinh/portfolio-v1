@@ -1,9 +1,6 @@
 import React, { useContext } from 'react';
 import { Container } from 'react-bootstrap';
 import PortfolioContext from '../../context/context';
-import GithubButtons from '../GithubButtons/GithubButtons';
-
-import { githubButtons } from '../../mock/data';
 
 
 const Footer = () => {
@@ -38,7 +35,6 @@ const Footer = () => {
         <p className="footer__text">
           © {new Date().getFullYear()} Benjamin Dinh
         </p>
-        {isEnabled && <GithubButtons />}
       </Container>
     </footer>
   );
