@@ -21,7 +21,7 @@ export default function HTML({
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         {headComponents}
       </head>
-      <body {...bodyAttributes}>
+      <body id = 'top'{...bodyAttributes}>
         {preBodyComponents}
         <div key="body" id="___gatsby" dangerouslySetInnerHTML={{ __html: body }} />
         {postBodyComponents}
