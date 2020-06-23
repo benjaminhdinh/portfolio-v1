@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a software engineering student based in Silicon Valley, specializing in full-stack development.',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://drive.google.com/file/d/1gcHcfZugDA7305ATUEJE0Ev-qfPJkUFo/view?usp=sharing', 
+  resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing', 
 };
 
 // PROJECTS DATA
