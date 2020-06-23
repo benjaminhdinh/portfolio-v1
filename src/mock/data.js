@@ -2,7 +2,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Benjamin Dinh | Developer', 
+  title: 'Benjamin Dinh', 
   lang: 'en',
   description: "Welcome to my website!", 
 };
