@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 // HEAD DATA
 export const headData = {
   title: 'Benjamin Dinh | Developer', 
-  lang: 'en', // e.g: en, es, fr, jp
+  lang: 'en',
   description: "Welcome to my website!", 
 };
 
