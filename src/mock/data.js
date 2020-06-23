@@ -81,13 +81,13 @@ export const footerData = {
     },
     {
       id: uuidv4(),
-      name: 'github',
-      url: 'https://github.com/benjamin-dinh',
+      name: 'behance',
+      url: 'https://www.behance.net/benjamin-dinh',
     },
     {
       id: uuidv4(),
-      name: 'behance',
-      url: 'https://www.behance.net/benjamin-dinh',
+      name: 'github',
+      url: 'https://github.com/benjamin-dinh',
     },
   ],
 };
