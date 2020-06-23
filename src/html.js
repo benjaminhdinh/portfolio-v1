@@ -23,7 +23,6 @@ export default function HTML({
       </head>
       <body {...bodyAttributes}>
         {preBodyComponents}
-        <a id="top"></a>
         <div key="body" id="___gatsby" dangerouslySetInnerHTML={{ __html: body }} />
         {postBodyComponents}
       </body>
