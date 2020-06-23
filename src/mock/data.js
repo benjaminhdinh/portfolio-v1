@@ -75,6 +75,11 @@ export const footerData = {
       name: 'github',
       url: 'https://github.com/benjamin-dinh',
     },
+    {
+      id: uuidv4(),
+      name: 'behance',
+      url: 'https://www.behance.net/benjamin-dinh',
+    },
   ],
 };
 
