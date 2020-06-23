@@ -56,7 +56,7 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'behance.jpg',
-    title: 'Side Hobby: Graphic Design',
+    title: 'Side Hobby: Art',
     info: 'In my free time, I doodle! From watercolor art to my graphics, I use a variety of mediums to create fun pieces.',
     info2: 'Mediums: Acrylic Paint, Watercolors, Procreate',
     url: 'https://www.behance.net/gallery/99370465/Personal-Art',
