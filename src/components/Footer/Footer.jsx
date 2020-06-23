@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <footer className="footer navbar-static-bottom">
       <Container>
-        <a onUpdate={() => window.scrollTo(0, 0)}  aria-label="Back To Top" className="back-to-top">
+        <a href='#top' aria-label="Back To Top" className="back-to-top">
           <i className="fa fa-angle-up fa-2x" aria-hidden="true" />
         </a>
         <div className="social-links">
