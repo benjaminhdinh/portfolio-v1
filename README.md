@@ -2,5 +2,5 @@
 
 Built website using Gatsby, GraphQL, React, Bootstrap 4, and Sass
 
-Credit to Gatsby Simplefolio Starter, designed by Jacobo Martinez
+Credit to Jacobo Martinez for original website design
 https://github.com/cobidev/gatsby-simplefolio
