@@ -15,7 +15,6 @@ export default () => {
         <title>{title || ""}</title>
         <html lang={lang || 'en'} />
         <meta name="description" content={description || ""} />
-        <meta name="google-site-verification" content="4YY8baxEXtDlYHtvQnN2SrGNZx9pA7i35nx_rPd_wwk" />
       </Helmet>
       <App/>
     </>
