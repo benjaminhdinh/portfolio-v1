@@ -59,8 +59,8 @@ export const projectsData = [
     title: 'AggieFeed App',
     info: 'Built a simple Android app over the course of a weekend. Accessed a REST API to render a newsfeed where any element can be tapped on to show a more detailed view.',
     info2: 'Overview: Kotlin, OkHTTP, GSON',
-    url: '',
-    repo: 'https://github.com/benjamin-dinh/IETAndroidAppProject', 
+    url: 'https://github.com/benjamin-dinh/IETAndroidAppProject',
+    repo: '', 
   },
   {
     id: uuidv4(),
