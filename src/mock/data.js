@@ -26,6 +26,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  // {
+  //   id: uuidv4(),
+  //   img: 'project4.jpg',
+  //   title: 'AggieFeed App',
+  //   info: 'Built a simple Android app over the course of a weekend. Accessed a REST API to render a newsfeed where any element can be tapped on to show a more detailed view.',
+  //   info2: 'Overview: Kotlin, OkHTTP, GSON',
+  //   url: 'https://github.com/benjamin-dinh/IETAndroidAppProject',
+  //   repo: '', 
+  // },
   {
     id: uuidv4(),
     img: 'project1.png',
@@ -52,15 +61,6 @@ export const projectsData = [
     info2: 'Overview: HTML, CSS, Javascript',
     url: 'https://shore-conscious-supply.glitch.me/',
     repo: 'https://github.com/benjamin-dinh/museum-website', // if no repo, the button will not show up
-  },
-  {
-    id: uuidv4(),
-    img: 'project4.jpg',
-    title: 'AggieFeed App',
-    info: 'Built a simple Android app over the course of a weekend. Accessed a REST API to render a newsfeed where any element can be tapped on to show a more detailed view.',
-    info2: 'Overview: Kotlin, OkHTTP, GSON',
-    url: 'https://github.com/benjamin-dinh/IETAndroidAppProject',
-    repo: '', 
   },
   {
     id: uuidv4(),
