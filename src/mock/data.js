@@ -55,6 +55,15 @@ export const projectsData = [
   },
   {
     id: uuidv4(),
+    img: 'AggieFeedScreenshot.jpg',
+    title: 'AggieFeed App',
+    info: 'Built a simple Android app over the course of a weekend. Accessed a REST API to render a newsfeed where any element can be tapped on to show a more detailed view.',
+    info2: 'Overview: Kotlin, OkHTTP, GSON',
+    url: '',
+    repo: 'https://github.com/benjamin-dinh/IETAndroidAppProject', 
+  },
+  {
+    id: uuidv4(),
     img: 'behance.jpg',
     title: 'Side Hobby: Art',
     info: 'In my free time, I doodle! From watercolor art to graphic design, I use a variety of mediums to create fun pieces.',
