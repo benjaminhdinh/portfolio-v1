@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: uuidv4(),
-    img: 'AggieFeedScreenshot.jpg',
+    img: 'project4.jpg',
     title: 'AggieFeed App',
     info: 'Built a simple Android app over the course of a weekend. Accessed a REST API to render a newsfeed where any element can be tapped on to show a more detailed view.',
     info2: 'Overview: Kotlin, OkHTTP, GSON',
