@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a software engineering student based in Silicon Valley, specializing in full-stack development.',
+  paragraphOne: 'I am a software engineering student based in Silicon Valley.',
   paragraphTwo: 'Websites, mobile applications, and everything inbetween is what I am passionate about.',
   paragraphThree: 'Contact me, I would love to chat!',
   resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing', 
