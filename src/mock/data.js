@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'AggieFeed App',
     info: 'Built a simple Android app over the course of a weekend. Accessed a REST API to render a newsfeed where any element can be tapped on to show a more detailed view.',
     info2: 'Overview: Kotlin, OkHTTP, GSON',
-    url: 'https://drive.google.com/file/d/17zmKViZXW3wJTpz_8ZJwW8jhyPvPjgpQ/view?usp=sharing',
+    url: 'https://drive.google.com/file/d/1vH078U3TXIbzWwnw4dqZkSJPtS7ijEUe/view?usp=sharing',
     repo: 'https://github.com/benjamin-dinh/IETAndroidAppProject', 
   },
   {
