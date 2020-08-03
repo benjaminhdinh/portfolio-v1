@@ -66,8 +66,8 @@ export const projectsData = [
     id: uuidv4(),
     img: 'behance.jpg',
     title: 'Side Hobby: Art',
-    info: 'In my free time, I doodle! From watercolor art to graphic design, I use a variety of mediums to create fun pieces.',
-    info2: 'Mediums: Acrylic Paint, Watercolors, Procreate',
+    info: 'In my free time, I make art! From painting to graphic design, I use a variety of mediums to create fun pieces.',
+    info2: '',
     url: 'https://www.behance.net/gallery/99370465/Personal-Art',
     repo: '', // if no repo, the button will not show up
   },
