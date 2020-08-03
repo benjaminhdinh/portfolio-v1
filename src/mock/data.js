@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a software engineering student based in Silicon Valley.',
-  paragraphTwo: 'Websites, mobile applications, and everything inbetween is what I am passionate about.',
+  paragraphTwo: "Websites, mobile applications, and everything inbetween is what I am passionate about. My goal is to develop technology that can not only solve problems but also deliver unique experiences. Away from the computer, you can find me cooking up yummy meals, browsing through YouTube, or hiking!",
   paragraphThree: 'Contact me, I would love to chat!',
   resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing', 
 };
