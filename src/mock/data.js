@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a software engineering student based in Silicon Valley.',
-  paragraphTwo: "I enjoy exploring the different ways that Computer Science intersects with other disciplines. My goal is to develop technology that can not only solve problems but also deliver unique experiences.",
+  paragraphTwo: "My goal is to develop technology that can not only solve problems but also deliver unique experiences.",
   paragraphThree: 'Away from the computer, you can find me cooking up yummy meals, browsing through YouTube, or exploring hiking trails. I love trying new things!',
   resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing', 
 };
