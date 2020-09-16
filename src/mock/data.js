@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'project1.png',
     title: 'UC Davis Graduate Yearbook',
     info: 'Built a website that allows graduates to upload personal profiles to display on a yearbook website.',
-    info2: 'Overview: Figma, React, Express, Google Log-In Credentials, Flickr API',
+    info2: 'Overview: Figma, React, Express, Google Log-In Authentication, Flickr API',
     url: 'https://hazel-boundless-yearbook.glitch.me',
     repo: 'https://github.com/benjamin-dinh/yearbook', // if no repo, the button will not show up
   },
