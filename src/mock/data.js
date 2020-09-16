@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'project1.png',
-    title: 'UC Davis Graduate Yearbook 2020',
+    title: 'UC Davis Graduate Yearbook',
     info: 'Built a website that allows graduates to upload personal profiles to display on a yearbook website.',
     info2: 'Overview: Figma, React, Express, Google Log-In Credentials, Flickr API',
     url: 'https://hazel-boundless-yearbook.glitch.me',
