@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a software engineering student based in Silicon Valley.',
-  paragraphTwo: 'My goal is to develop technology that can not only solve problems but also deliver unique experiences. Currently, I am exploring the interdisciplenary field of social and political networks under the UC Davis Social and Political Interacting Networks research group where I debug existing code and contribute new feautres to the Maoz Network Program.',
+  paragraphTwo: 'My goal is to develop technology that can not only solve problems but also deliver unique experiences. Currently, I am exploring the interdisciplinary field of network studies under the UC Davis Social and Political Interacting Networks research group where I debug existing code and contribute new feautres to the Maoz Network Program.',
   paragraphThree: 'Away from the computer, you can find me cooking up yummy meals, browsing through YouTube, or exploring hiking trails. I love trying new things!',
   resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing', 
 };
