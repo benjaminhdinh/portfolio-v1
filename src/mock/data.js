@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: uuidv4(),
     img: 'project4.jpg',
-    title: 'AggieFeed App',
+    title: 'AggieFeed',
     info: 'Built an Android app that accessed a REST API to render the university’s newsfeed, AggieFeed, where any element can be tapped on to show a more detailed view.',
     info2: 'Overview: Kotlin, OkHTTP, GSON',
     url: 'https://drive.google.com/file/d/1vH078U3TXIbzWwnw4dqZkSJPtS7ijEUe/view?usp=sharing',
