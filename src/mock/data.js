@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a software engineering student based in Silicon Valley.',
   paragraphTwo:
-    'My goal is to develop technology that can not only solve problems but also deliver unique experiences. Currently, I am exploring the interdisciplinary field of network analysis under the UC Davis Social and Political Interacting Networks research group where I contribute code to the Maoz Network Program.',
+    'My goal is to develop technology that can not only solve problems but also deliver unique experiences. Currently, I am leading two full-stack development teams in building websites from the ground up for local non-profit organizations.',
   paragraphThree:
     'Away from the computer, you can find me cooking yummy meals, browsing through YouTube, or exploring hiking trails. I love trying new things!',
   resume: 'https://drive.google.com/file/d/12RGZN1ZWXFLfBdvNH6nz2mMuberIKR4H/view?usp=sharing',
